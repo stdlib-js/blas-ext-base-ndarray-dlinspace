@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-03-07)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`a8f58e8`](https://github.com/stdlib-js/stdlib/commit/a8f58e85d51447565496639ff55fec3fbbfe0212) - **docs:** improve doctests for ndarray instances in `blas/ext/base/ndarray/dlinspace` [(#10741)](https://github.com/stdlib-js/stdlib/pull/10741) _(by Aniket Sonawane)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Aniket Sonawane
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.1">
 
 ## 0.1.1 (2026-02-08)
